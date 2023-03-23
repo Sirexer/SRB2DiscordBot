@@ -1,5 +1,6 @@
 # SRB2DiscordBot
-<span style="font-size: 18px">Have a chat with SRB2 players on Discord!</span></b><br>​</div><b>
+<span style="font-size: 18px">Have a chat with SRB2 players on Discord!</span></b><br>
+<span style="font-size: 15px">If you use .exe file, you don't need python and modules for bot, but if you want use .py file you need download python 3+ and modules.</span><br>
 <b><span style="font-size: 15px">Python modules:</span></b><br>
 <ul>
 <li data-xf-list-type="ul">Discord 1.7.3;</li>
@@ -10,7 +11,7 @@
 <li data-xf-list-type="ul">Regular Expression Engine 2.2.1;</li>
 <li data-xf-list-type="ul">JavaScript Object Notation 2.0.9.</li>
 </ul><br>
-<span style="font-size: 15px">What the bot is able to do:</span></b><br>
+<span style="font-size: 15px"><b>What the bot is able to do:</span></b><br>
 <ul>
 <li data-xf-list-type="ul">translate the chat from the game in the discord and let communicate outside the game;</li>
 <li data-xf-list-type="ul">Run the server with parameters, the parameters are specified in the .cfg file;</li>
