@@ -30,4 +30,3 @@
 <div style="text-align: center"><b>Video Guide - https://youtu.be/ZiKhOHKt_xk</b><br>
 <div class="bbMediaWrapper" data-media-site-id="youtube" data-media-key="ZiKhOHKt_xk">
 </div><br>
-<b><span style="color: RED"><span style="font-size: 26px">Source Code I will post later, don't ask me about it</span></span></b>​</div></div>
