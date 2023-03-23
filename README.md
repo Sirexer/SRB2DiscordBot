@@ -1,7 +1,6 @@
 # SRB2DiscordBot
 <span style="font-size: 18px">Have a chat with SRB2 players on Discord!</span></b><br>
 <span style="font-size: 15px">If you use .exe file, you don't need python and modules for bot, but if you want use .py file you need download python 3+ and modules.</span><br>
-
 <span style="font-size: 18px">The script does not work on Linux, also not tested for SRB2Kart.!</span></b><br>
 <b><span style="font-size: 15px">Python modules:</span></b><br>
 <ul>
