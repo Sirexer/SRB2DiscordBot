@@ -40,6 +40,4 @@
 <li data-xf-list-type="ul">serverparameters\pcfg&lt;X&gt;.cfg - parameters for the server, if you have configured restart they will change.</li>
 </ul><br>
 <div style="text-align: center"><b>Video Guide - https://youtu.be/ZiKhOHKt_xk</b><br>
-<div style="text-align: center"><b>SRB2Workshop Page - https://srb2workshop.org/resources/srb2discordbot.84/</b><br>
-<div class="bbMediaWrapper" data-media-site-id="youtube" data-media-key="ZiKhOHKt_xk">
-</div><br>
+</div>
